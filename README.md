@@ -1,2 +1,6 @@
-# SQL
-SQL Homeworks
+# Домашние работы SQL:
+
+
+- [HOMEWORK SQL DDL]()
+- [HOMEWORK 1 SQL SELECT]()
+- [HOMEWORK 2 SQL JOIN]()
